@@ -1,0 +1,13 @@
+.chores h3
+{
+   text-decoration: underline;
+}
+
+.chores ul
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: royalblue;
+    font-style: italic; 
+   
+}
